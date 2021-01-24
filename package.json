@@ -1,0 +1,25 @@
+{
+  "name": "easy-note-app",
+  "version": "1.0.0",
+  "description": "\"Easy Note CRUD APP RESTFULL\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "Express",
+    "RESTAPI",
+    "MongoDB",
+    "Mongoose",
+    "NOTE"
+  ],
+  "author": "ibr",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.11.8",
+    "nodemon": "^2.0.6"
+  }
+}
